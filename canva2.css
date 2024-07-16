@@ -11,13 +11,13 @@ body{
 
 
 main{
-   margin: 130px 0 0;
+    margin: 130px 0 0;
     padding: 0 30px;
     height: 4493px;
-    width: 1450px;
+    width: 100%;
     align-items: center;
-    /* display: flex;
-    flex-wrap: nowrap; */
+    display: flex;
+    flex-direction: column;
     justify-content: center;
    
     
